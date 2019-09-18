@@ -4,8 +4,7 @@
 
 -----------------------------------------------------------------------------------------------------------
 
-This project is inspired of the original [Dive Into Deep Learning](https://d2l.ai) book by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola 
-and all the community contributors. We have made an effort to modify the book and convert the MXnet code snippets into PyTorch.
+This project is adapted from the original [Dive Into Deep Learning](https://d2l.ai) book by Aston Zhang, Zachary C. Lipton, Mu Li, Alex J. Smola and all the community contributors. We have made an effort to modify the book and convert the MXnet code snippets into PyTorch.
 
 Note: Some ipynb notebooks may not be rendered perfectly in Github. We suggest `cloning` the repo or using [nbviewer](https://nbviewer.jupyter.org/) to view the notebooks.
 
@@ -90,7 +89,7 @@ Note: Some ipynb notebooks may not be rendered perfectly in Github. We suggest `
     * 10.15 [Beam Search](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Beam_Search.ipynb)
 
   * **Ch11 Attention Mechanism**
-    * 11.1 [Attention Mechanism](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Attention_Mechanism.ipynb)
+    * 11.1 [Attention Mechanism](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch11_Attention_Mechanism/Attention_Mechanism.ipynb)
     * 11.2 Sequence to Sequence with Attention Mechanism
     * 11.3 Transformer
 
